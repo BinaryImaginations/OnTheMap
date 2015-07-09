@@ -78,10 +78,7 @@
 			isa = PBXGroup;
 			children = (
 				B9F9C45A1B4DEFD100B5FE0F /* AppDelegate.swift */,
-				B9F9C45C1B4DEFD100B5FE0F /* ViewController.swift */,
-				B9F9C45E1B4DEFD100B5FE0F /* Main.storyboard */,
-				B9F9C4611B4DEFD100B5FE0F /* Images.xcassets */,
-				B9F9C4631B4DEFD100B5FE0F /* LaunchScreen.xib */,
+				B9F9C47A1B4DF05000B5FE0F /* Controller */,
 				B9F9C4581B4DEFD100B5FE0F /* Supporting Files */,
 			);
 			path = OnTheMap;
@@ -90,6 +87,8 @@
 		B9F9C4581B4DEFD100B5FE0F /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				B9F9C4611B4DEFD100B5FE0F /* Images.xcassets */,
+				B9F9C47B1B4DF0A300B5FE0F /* Storyboard */,
 				B9F9C4591B4DEFD100B5FE0F /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -110,6 +109,23 @@
 				B9F9C46F1B4DEFD100B5FE0F /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		B9F9C47A1B4DF05000B5FE0F /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				B9F9C45C1B4DEFD100B5FE0F /* ViewController.swift */,
+			);
+			name = Controller;
+			sourceTree = "<group>";
+		};
+		B9F9C47B1B4DF0A300B5FE0F /* Storyboard */ = {
+			isa = PBXGroup;
+			children = (
+				B9F9C45E1B4DEFD100B5FE0F /* Main.storyboard */,
+				B9F9C4631B4DEFD100B5FE0F /* LaunchScreen.xib */,
+			);
+			name = Storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
