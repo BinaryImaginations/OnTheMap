@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "OnTheMap.UdacityClient.getUserDetail (OnTheMap.UdacityClient)((success : Swift.Bool) -&gt; ()) -&gt; ():UdacityClient.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "key">
+            </PersistentString>
+            <PersistentString
+               value = "self.key">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "OnTheMap.UdacityClient.taskForPOSTMethod (OnTheMap.UdacityClient)(Swift.String, parameters : Swift.Dictionary&lt;Swift.String, Swift.AnyObject&gt;, jsonBody : Swift.Dictionary&lt;Swift.String, Swift.AnyObject&gt;, completionHandler : (result : Swift.ImplicitlyUnwrappedOptional&lt;Swift.AnyObject&gt;, error : Swift.Optional&lt;ObjectiveC.NSError&gt;) -&gt; ()) -&gt; ObjectiveC.NSURLSessionDataTask:UdacityClient.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "request.description">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "OnTheMap.UdacityClient.parseUserData (OnTheMap.UdacityClient)(ObjectiveC.NSData) -&gt; Swift.Bool:UdacityClient.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "account">
+            </PersistentString>
+            <PersistentString
+               value = "self.key">
+            </PersistentString>
+            <PersistentString
+               value = "self.sessionID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
